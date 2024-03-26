@@ -1,16 +1,12 @@
-# appleohis
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#SOME IMAGES ABOUT APP
+![dangnhap](https://github.com/nhang1020/app_leodoctor_v1.5/assets/94044017/561e5f8e-1ad6-4117-a684-325449e2cd76)
+![trangchu](https://github.com/nhang1020/app_leodoctor_v1.5/assets/94044017/e70e8be6-c99a-43df-9c74-46d594e965f7)
+![trangchu_menu](https://github.com/nhang1020/app_leodoctor_v1.5/assets/94044017/5f829cd9-4c3e-4ebe-a03e-be306f8200dc)
+![thongtin_benhnhan](https://github.com/nhang1020/app_leodoctor_v1.5/assets/94044017/5848942e-4b39-49da-8707-7f8dfee63d33)
+![danhsachsinhhieu](https://github.com/nhang1020/app_leodoctor_v1.5/assets/94044017/88141b40-8bd3-4150-971d-ec8b1ba6e740)
+![DSnamvien](https://github.com/nhang1020/app_leodoctor_v1.5/assets/94044017/dbfddcf8-415b-4e3a-8d6c-9bb37f2bc947)
+![cacchucnang](https://github.com/nhang1020/app_leodoctor_v1.5/assets/94044017/59e661be-d3b6-46f8-8f89-1e1ea52d7c39)
+![DS_phieudieutri](https://github.com/nhang1020/app_leodoctor_v1.5/assets/94044017/09de0d78-1f20-4602-b1e9-b26017de8f50)
+![DS_CLS](https://github.com/nhang1020/app_leodoctor_v1.5/assets/94044017/c7a95ff5-cd86-475d-8f22-2f31e17d5ceb)
+![dosinhhieu](https://github.com/nhang1020/app_leodoctor_v1.5/assets/94044017/16fed83d-e771-4899-a26c-4df1bffbb7e4)
+![DS_phieuchamsoc](https://github.com/nhang1020/app_leodoctor_v1.5/assets/94044017/3b4082a9-360f-4ac4-8ecb-016d8021bd9b)
